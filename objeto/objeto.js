@@ -29,3 +29,9 @@ for (const key in arr) {
     console.log(key + ': ' + arr[key] )
 }
 
+for (let i = 0; i < arr.length; i++) {
+    console.log(i + ': ' + arr[i] )
+}
+
+
+
